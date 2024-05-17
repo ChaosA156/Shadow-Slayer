@@ -152,12 +152,12 @@ TextureImporter:
       name: Torche1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 324
-        width: 2048
-        height: 1024
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        x: 730
+        y: 415
+        width: 362
+        height: 875
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,12 +173,12 @@ TextureImporter:
       name: Torch (3)_1
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 324
-        width: 2048
-        height: 1024
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        x: 2758
+        y: 421
+        width: 382
+        height: 861
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,12 +194,12 @@ TextureImporter:
       name: Torch (3)_2
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 324
-        width: 2048
-        height: 1024
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        x: 4765
+        y: 416
+        width: 427
+        height: 928
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,12 +215,12 @@ TextureImporter:
       name: Torch (3)_3
       rect:
         serializedVersion: 2
-        x: 6144
-        y: 324
-        width: 2048
-        height: 1024
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        x: 6783
+        y: 416
+        width: 449
+        height: 930
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: Torch (3)_4
       rect:
         serializedVersion: 2
-        x: 8192
-        y: 324
-        width: 2048
-        height: 1024
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        x: 8925
+        y: 422
+        width: 358
+        height: 953
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,12 +257,12 @@ TextureImporter:
       name: Torch (3)_5
       rect:
         serializedVersion: 2
-        x: 10240
-        y: 324
-        width: 2048
-        height: 1024
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        x: 10980
+        y: 414
+        width: 345
+        height: 865
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
